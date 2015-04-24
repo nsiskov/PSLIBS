@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/TF7.4.3.x"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/PSUtility"/>
+	<classpathentry kind="lib" path="/Users/sandipbose/Documents/TF_CVS/Linux/TF7.4.x/xfort/xfbank/ES/webapps/vpas/web-inf/lib/servlet-api.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/PSLogger"/>
+	<classpathentry kind="lib" path="/Users/sandipbose/Documents/TF_CVS/Linux/TF7.4.x/xfort/xfbank/ES/webapps/vpas/web-inf/lib/commons-beanutils-1.8.3.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/PSHttpsConnection"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/sandipbose/Documents/TF_CVS/profsvc/transfort/INHOUSE/MAVENBUILD/PSLIBS/AxisHelper/extlib/axis.jar"/>
+	<classpathentry kind="lib" path="/Users/sandipbose/Documents/TF_CVS/profsvc/transfort/INHOUSE/MAVENBUILD/PSLIBS/AxisHelper/extlib/jaxrpc.jar"/>
+	<classpathentry kind="lib" path="/Users/sandipbose/Documents/TF_CVS/profsvc/transfort/INHOUSE/MAVENBUILD/PSLIBS/AxisHelper/extlib/wss4j-1.5.8.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/GenericCallout"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/TF7.4.3.x"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/PSHttpsConnection"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/PSLogger"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/PSJni"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
