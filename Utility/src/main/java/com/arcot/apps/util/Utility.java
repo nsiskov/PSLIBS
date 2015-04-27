@@ -29,7 +29,7 @@ public class Utility {
 		int len = pan.length();
 		if (len < 4)
 			return pan;
-		StringBuffer temp = new StringBuffer("************");
+		StringBuffer temp = new StringBuffer("***********");
 		temp.append(pan.substring((len - 4), len));
 		return temp.toString();
 	}
