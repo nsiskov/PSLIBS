@@ -141,7 +141,7 @@ public class ConnectionManager{
 						}
 					}
 					
-					SSLContext sslContext = SSLContext.getInstance("SSLv3");
+					SSLContext sslContext = SSLContext.getInstance("TLSv1.2");
 					if(keyMgrFactory == null){
 						sslContext.init(null, trustManager, null);
 					}else{

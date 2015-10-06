@@ -103,7 +103,7 @@ public class ArcotSecureSocketFactory extends SunJSSESocketFactory {
         // protocol for the SSL ie - TLS, SSL v3 etc.
         String protocol = (String) attributes.get("protocol");
         if (protocol == null)
-            protocol = "TLS";
+            protocol = "TLSv1.2";
         // Algorithm used to encode the certificate ie - SunX509
         String algorithm = (String) attributes.get("algorithm");
         if (algorithm == null)
